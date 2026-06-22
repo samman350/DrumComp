@@ -8,4 +8,4 @@ The 'audio engine' makes use of a 3D buffer and a circular buffer.
 here is a demonstration:
 
 [<img src="https://img.youtube.com/vi/ndneZwzI9A4/hqdefault.jpg" width="600" height="300"
-/>](https://www.youtube.com/embed/<VIDEO_ID>)
+/>](https://www.youtube.com/embed/ndneZwzI9A4)
